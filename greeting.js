@@ -1,4 +1,4 @@
-function greeting() { 
-   console.log("Hello, World!");
+function greeting(name) { 
+   return "Hello, " + name + "!";
 }
-greeting();
+module.exports = greeting;
