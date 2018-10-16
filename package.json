@@ -1,43 +1,28 @@
 {
   "name": "lav08",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "first",
   "main": "app.js",
   "scripts": {
     "test": "jest",
     "clean": "rm -rf node_modules",
     "run": "node app"
-=======
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "jest"
->>>>>>> 51b717b7ef64ebe53e9c4cb279dfe773e240b062
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Puzzles012/lav08.git"
   },
-<<<<<<< HEAD
   "author": "hlynski",
-=======
-  "author": "",
->>>>>>> 51b717b7ef64ebe53e9c4cb279dfe773e240b062
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Puzzles012/lav08/issues"
   },
   "homepage": "https://github.com/Puzzles012/lav08#readme",
   "devDependencies": {
-<<<<<<< HEAD
     "jest": "^23.6.0",
     "supertest": "^3.3.0"
   },
   "dependencies": {
     "express": "^4.16.3"
-=======
-    "jest": "^23.6.0"
->>>>>>> 51b717b7ef64ebe53e9c4cb279dfe773e240b062
   }
 }
