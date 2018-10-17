@@ -25,7 +25,8 @@
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "lodash": "^4.17.11"
   },
   "resolutions": {
     "debug": "2.6.9",
